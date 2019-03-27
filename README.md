@@ -17,7 +17,7 @@ It was 3 weeks with a lot of work and dedication after almost 2 months bootcampi
 * Endpoints: "/users", "/categories", "/products", "/orders", "/evaluations"
 
 * Link to Front-End aplication: [https://pro-geek-surge.sh]
-* Link to Front-End repository: [https://github.com/henriquegmendes/pro-geek-ecommerce-app-front-end-react]
+* Link to Front-End repository: [https://github.com/Jpserrat/pro-geek-ecommerce-app-front-end-react]
 
 ## Additional implementations and improvements
 
